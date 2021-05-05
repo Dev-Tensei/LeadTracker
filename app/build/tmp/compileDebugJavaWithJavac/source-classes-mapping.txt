@@ -1,0 +1,13 @@
+com/bignerdranch/android/lead/database/LeadDao_Impl.java
+ com.bignerdranch.android.lead.database.LeadDao_Impl
+ com.bignerdranch.android.lead.database.LeadDao_Impl$1
+ com.bignerdranch.android.lead.database.LeadDao_Impl$2
+ com.bignerdranch.android.lead.database.LeadDao_Impl$3
+ com.bignerdranch.android.lead.database.LeadDao_Impl$3$1
+ com.bignerdranch.android.lead.database.LeadDao_Impl$4
+ com.bignerdranch.android.lead.database.LeadDao_Impl$4$1
+com/bignerdranch/android/lead/database/LeadDatabase_Impl.java
+ com.bignerdranch.android.lead.database.LeadDatabase_Impl
+ com.bignerdranch.android.lead.database.LeadDatabase_Impl$1
+com/bignerdranch/android/lead/BuildConfig.java
+ com.bignerdranch.android.lead.BuildConfig

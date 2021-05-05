@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lead Tracker</string>
+    <string name="lead_name_hint">Enter a title for the lead.</string>
+    <string name="lead_phone_hint">Enter a phone for the lead.</string>
+    <string name="lead_preference_hint">Enter a preference for the lead.</string>
+    <string name="lead_name_label">Name</string>
+    <string name="lead_details_label">Details</string>
+    <string name="lead_contacted_label">Contacted</string>
+    <string name="new_lead">New Lead</string>
+</resources>
